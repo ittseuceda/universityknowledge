@@ -10,7 +10,6 @@ $default_string = 'https://www.googleapis.com/customsearch/v1?key=';
 // key and engine ID's
 $keyID = 'AIzaSyDcV8xHWNgE3U0HjOy4IBfqPfW9dl-tSKM';
 $engineID = '000474850362420949879:o5cf66syyny';
-// $engineID = '017576662512468239146:omuauf_lfve';
 
 //query values
 $first_name = 'Peters';
@@ -35,32 +34,26 @@ fclose($fp);
 
 $string = file_get_contents("results.json");
 $json_a=json_decode($string,true);
-// $json_a = json_encode($json_a, JSON_PRETTY_PRINT);
 
-//
-// for($i =0;$i < $prec_int;$i++)
-// {
-//   $string = $json_a['items'][$i]['snippet'];
-//   echo $string;
-// }
 //opening values.json
 $file = fopen('values.json', 'w');
 
 //displaying to terminal
-for($i =0;$i < $prec_int;$i++)
+for($i = 0;$i < $prec_int;$i++)
 {
   $string = $json_a['items'][$i]['snippet'];
   echo $string;
 }
 
 //writing to file
-for($i =0;$i < $prec_int;$i++)
+for($i = 0;$i < $prec_int;$i++)
 {
   $string = $json_a['items'][$i]['snippet'];
   fwrite($file, $string);
 }
 //close values.json
 fclose($file);
+//TODO: close files when done debugging
 // $fh = fopen( 'results.json', 'w+');
 // fclose($fh);
 //
