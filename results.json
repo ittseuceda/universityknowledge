@@ -1,0 +1,316 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application\/json",
+        "template": "https:\/\/www.googleapis.com\/customsearch\/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Alvio Dominguez",
+                "totalResults": "36",
+                "searchTerms": "Alvio Dominguez",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "000474850362420949879:o5cf66syyny"
+            }
+        ],
+        "request": [
+            {
+                "title": "Google Custom Search - Alvio Dominguez",
+                "totalResults": "36",
+                "searchTerms": "Alvio Dominguez",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "000474850362420949879:o5cf66syyny"
+            }
+        ]
+    },
+    "context": {
+        "title": "Miami Dade College Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.180489,
+        "formattedSearchTime": "0.18",
+        "totalResults": "36",
+        "formattedTotalResults": "36"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "faculty",
+            "htmlTitle": "faculty",
+            "link": "https:\/\/www.mdc.edu\/wolfson\/departments\/math\/people\/faculty.htm",
+            "displayLink": "www.mdc.edu",
+            "snippet": "Dominguez, Alvio, 1529B, 237-3114, adoming1@mdc.edu \u00b7 Alvio Dominguez. \nGonzalez, Belarmino, 1534, 237-3569, bgonzal5@mdc.edu \u00b7 Belarmino \nGonzalez.",
+            "htmlSnippet": "Dominguez, Alvio, 1529B, 237-3114, adoming1@mdc.edu &middot; <b>Alvio Dominguez<\/b>. <br>\nGonzalez, Belarmino, 1534, 237-3569, bgonzal5@mdc.edu &middot; Belarmino <br>\nGonzalez.",
+            "cacheId": "FG4dBQtmTtcJ",
+            "formattedUrl": "https:\/\/www.mdc.edu\/wolfson\/departments\/math\/people\/faculty.htm",
+            "htmlFormattedUrl": "https:\/\/www.mdc.edu\/wolfson\/departments\/math\/people\/faculty.htm",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "https:\/\/www.mdc.edu\/wolfson\/departments\/math\/images\/b_wolfson.jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "136",
+                        "height": "60",
+                        "src": "https:\/\/encrypted-tbn1.gstatic.com\/images?q=tbn:ANd9GcRhDzzUvgRA0XBzAWNVroHUNIFiip4Gv9vHX-T8Wcao_TCQyPh55wAiZw"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "progid": "FrontPage.Editor.Document"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "TopFaculty - MDC College Forum - Volume 15, Number 3",
+            "htmlTitle": "TopFaculty - MDC College Forum - Volume 15, Number 3",
+            "link": "https:\/\/www.mdc.edu\/main\/collegeforum\/archive\/vol15-03\/makingtheirmark\/l0200_topfaculty.aspx",
+            "displayLink": "www.mdc.edu",
+            "snippet": "Also taking a leadership role in advancing students through mathematics was \nAlvio Dom\u00ednguez, professor and Math Club coach. He recently led a team of four\n\u00a0...",
+            "htmlSnippet": "Also taking a leadership role in advancing students through mathematics was <br>\n<b>Alvio Dom\u00ednguez<\/b>, professor and Math Club coach. He recently led a team of four<br>\n&nbsp;...",
+            "cacheId": "a9lZWmY5SVgJ",
+            "formattedUrl": "https:\/\/www.mdc.edu\/main\/collegeforum\/...\/l0200_topfaculty.aspx",
+            "htmlFormattedUrl": "https:\/\/www.mdc.edu\/main\/collegeforum\/...\/l0200_topfaculty.aspx",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "https:\/\/www.mdc.edu\/main\/images\/TopFacultyDominguez_tcm6-49583.jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "160",
+                        "height": "160",
+                        "src": "https:\/\/encrypted-tbn3.gstatic.com\/images?q=tbn:ANd9GcQbDy21IJZSC9uZApcr9LZJSHWOmVq4arTKBjPd_-TgcKmQ0j-cKc_MvVE"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Dominguez - MDC Magazine - Volume 8, Number 1",
+            "htmlTitle": "<b>Dominguez<\/b> - MDC Magazine - Volume 8, Number 1",
+            "link": "http:\/\/www.mdc.edu\/main\/mdcmagazine\/archive\/vol08-1\/features\/Dominguez.aspx",
+            "displayLink": "www.mdc.edu",
+            "snippet": "Features. The Dom\u00ednguez Code. Dr. Alvio Dom\u00ednguez, associate professor of \nmathematics on Wolfson Campus, has been teaching in the Miami Dade College\n\u00a0...",
+            "htmlSnippet": "Features. The Dom\u00ednguez Code. Dr. <b>Alvio Dom\u00ednguez<\/b>, associate professor of <br>\nmathematics on Wolfson Campus, has been teaching in the Miami Dade College<br>\n&nbsp;...",
+            "cacheId": "jbzhv69MYMgJ",
+            "formattedUrl": "www.mdc.edu\/main\/mdcmagazine\/archive\/vol08...\/Dominguez.aspx",
+            "htmlFormattedUrl": "www.mdc.edu\/main\/mdcmagazine\/archive\/vol08...\/<b>Dominguez<\/b>.aspx",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http:\/\/www.mdc.edu\/main\/images\/Dominguez_thumb_tcm6-7382.jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "89",
+                        "height": "59",
+                        "src": "https:\/\/encrypted-tbn2.gstatic.com\/images?q=tbn:ANd9GcQ3g6T2jUpkpiLH0X5oaPor41qRouAwJGvLdDqcb7jG2TXrc_UNYNtuQQ"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Faculty Q&A: Dr. Alvio Dominguez",
+            "htmlTitle": "Faculty Q&amp;A: Dr. <b>Alvio Dominguez<\/b>",
+            "link": "http:\/\/www.mdc.edu\/main\/newsandnotes\/2009\/vol7-16\/facandstaff\/topstory.aspx",
+            "displayLink": "www.mdc.edu",
+            "snippet": "Apr 20, 2009 ... News & Notes recently spoke with Dr. Alvio Dominguez, associate professor of \nmathematics at Wolfson Campus. Dr. Dominguez has taught at\u00a0...",
+            "htmlSnippet": "Apr 20, 2009 <b>...<\/b> News &amp; Notes recently spoke with Dr. <b>Alvio Dominguez<\/b>, associate professor of <br>\nmathematics at Wolfson Campus. Dr. Dominguez has taught at&nbsp;...",
+            "cacheId": "8CC6d7tXthIJ",
+            "formattedUrl": "www.mdc.edu\/main\/newsandnotes\/2009\/vol7-16\/...\/topstory.aspx",
+            "htmlFormattedUrl": "www.mdc.edu\/main\/newsandnotes\/2009\/vol7-16\/...\/topstory.aspx",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http:\/\/www.mdc.edu\/main\/images\/dominguez-classroom-1_cover_300_tcm6-11647.jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "240",
+                        "height": "160",
+                        "src": "https:\/\/encrypted-tbn1.gstatic.com\/images?q=tbn:ANd9GcR_-V1XvNRGgreHFi4YQSOaPzW35NJuOcrXxO9guAuiN64sMdehGQVsmOQ"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Math Club",
+            "htmlTitle": "Math Club",
+            "link": "https:\/\/www.mdc.edu\/wolfson\/departments\/math\/math%20club.htm",
+            "displayLink": "www.mdc.edu",
+            "snippet": "Coach: Dr. Alvio Dominguez adoming1@mdc.edu. Members: Maria Carla \nCanizares Otero. David Fink. Daniel Dodge. Erik Gutierrez. Maria Presa. Adrian \nNazco.",
+            "htmlSnippet": "Coach: Dr. <b>Alvio Dominguez<\/b> adoming1@mdc.edu. Members: Maria Carla <br>\nCanizares Otero. David Fink. Daniel Dodge. Erik Gutierrez. Maria Presa. Adrian <br>\nNazco.",
+            "cacheId": "Z_WOzqbIH-gJ",
+            "formattedUrl": "https:\/\/www.mdc.edu\/wolfson\/departments\/math\/math%20club.htm",
+            "htmlFormattedUrl": "https:\/\/www.mdc.edu\/wolfson\/departments\/math\/math%20club.htm",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "https:\/\/www.mdc.edu\/wolfson\/departments\/math\/images\/b_wolfson.jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "136",
+                        "height": "60",
+                        "src": "https:\/\/encrypted-tbn1.gstatic.com\/images?q=tbn:ANd9GcRhDzzUvgRA0XBzAWNVroHUNIFiip4Gv9vHX-T8Wcao_TCQyPh55wAiZw"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "progid": "FrontPage.Editor.Document"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Miami Dade College Students Take Top Honors at the 2015 State ...",
+            "htmlTitle": "Miami Dade College Students Take Top Honors at the 2015 State <b>...<\/b>",
+            "link": "https:\/\/www.mdc.edu\/main\/news\/articles\/2015\/04\/mdcstudents_take_top_honors_at_the_2015_.aspx",
+            "displayLink": "www.mdc.edu",
+            "snippet": "Apr 16, 2015 ... Faculty Advisor: Alvio Dominguez. InterAmerican Campus. Student: Rene Esusy \n\u2013 2nd Place in the Individual Competition. Faculty Advisors:.",
+            "htmlSnippet": "Apr 16, 2015 <b>...<\/b> Faculty Advisor: <b>Alvio Dominguez<\/b>. InterAmerican Campus. Student: Rene Esusy <br>\n\u2013 2<sup>nd<\/sup> Place in the Individual Competition. Faculty Advisors:.",
+            "cacheId": "gqDYEbCPfx4J",
+            "formattedUrl": "https:\/\/www.mdc.edu\/...\/mdcstudents_take_top_honors_at_the_2015_.aspx",
+            "htmlFormattedUrl": "https:\/\/www.mdc.edu\/...\/mdcstudents_take_top_honors_at_the_2015_.aspx",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "https:\/\/www.mdc.edu\/main\/images\/hurry_tcm6-98280.jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "240",
+                        "height": "160",
+                        "src": "https:\/\/encrypted-tbn2.gstatic.com\/images?q=tbn:ANd9GcS85-kA7ptUFAATP8ORIVb2ok5AKEvofowQzAleVIL0Kw3vdO6JM6cXTBVA"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Teaching Chair Honorees - MDC College Forum - Volume 12 ...",
+            "htmlTitle": "Teaching Chair Honorees - MDC College Forum - Volume 12 <b>...<\/b>",
+            "link": "https:\/\/www.mdc.edu\/main\/collegeforum\/archive\/vol12-8\/college_notebook\/chair_honorees.aspx",
+            "displayLink": "www.mdc.edu",
+            "snippet": "Dr. Alvio Dom\u00ednguez. Associate Professor, Mathematics, Wolfson Campus. The \nMiami Dade College Endowed Teaching Chair in Engineering, Mathematics and\n\u00a0...",
+            "htmlSnippet": "Dr. <b>Alvio Dom\u00ednguez<\/b>. Associate Professor, Mathematics, Wolfson Campus. The <br>\nMiami Dade College Endowed Teaching Chair in Engineering, Mathematics and<br>\n&nbsp;...",
+            "cacheId": "0UwnEuEqRoEJ",
+            "formattedUrl": "https:\/\/www.mdc.edu\/main\/collegeforum\/...\/chair_honorees.aspx",
+            "htmlFormattedUrl": "https:\/\/www.mdc.edu\/main\/collegeforum\/...\/chair_honorees.aspx",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "https:\/\/www.mdc.edu\/main\/images\/ETC%20Honoree_Top_tcm6-7653.jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "275",
+                        "height": "183",
+                        "src": "https:\/\/encrypted-tbn3.gstatic.com\/images?q=tbn:ANd9GcQsg0bROWBWP-PuUsGmasRq4DqvmVlwWQdHkhibCnLBBJXZilnbm2UuY1Px"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Dedication Adds Up for Miami Dade College Math Club Students ...",
+            "htmlTitle": "Dedication Adds Up for Miami Dade College Math Club Students <b>...<\/b>",
+            "link": "https:\/\/www.mdc.edu\/main\/news\/articles\/2011\/04\/dedication_adds_up_for_mdcmath_club_stud.aspx",
+            "displayLink": "www.mdc.edu",
+            "snippet": "Apr 14, 2011 ... For more information, please contact Professor Alvio Dominguez at 305-237-\n3114, adoming1@mdc.edu. Media-only contacts: Juan Mendieta\u00a0...",
+            "htmlSnippet": "Apr 14, 2011 <b>...<\/b> For more information, please contact Professor <b>Alvio Dominguez<\/b> at 305-237-<br>\n3114, adoming1@mdc.edu. Media-only contacts: Juan Mendieta&nbsp;...",
+            "cacheId": "zsSvgkTKLQwJ",
+            "formattedUrl": "https:\/\/www.mdc.edu\/...\/dedication_adds_up_for_mdcmath_club_stud.aspx",
+            "htmlFormattedUrl": "https:\/\/www.mdc.edu\/...\/dedication_adds_up_for_mdcmath_club_stud.aspx",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "https:\/\/www.mdc.edu\/main\/images\/Math%20Olympics_tcm6-48367.jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "240",
+                        "height": "160",
+                        "src": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSCuuLJBwz3ji645MzXlt3ZA2P7YSnisiemCB4u6NB3f0-vWQORz7VZJ38"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "MDC Wolfson Mathematics Competition",
+            "htmlTitle": "MDC Wolfson Mathematics Competition",
+            "link": "http:\/\/www.mdc.edu\/wolfson\/mathcompetition\/contact.html",
+            "displayLink": "www.mdc.edu",
+            "snippet": "The Mathematics Club is under the supervision of Professor Alvio Dominguez \nand meets every Friday from 4:00pm to 5:00pm in room 2218 at the Wolfson\u00a0...",
+            "htmlSnippet": "The Mathematics Club is under the supervision of Professor <b>Alvio Dominguez<\/b> <br>\nand meets every Friday from 4:00pm to 5:00pm in room 2218 at the Wolfson&nbsp;...",
+            "cacheId": "gB5M70lVihIJ",
+            "formattedUrl": "www.mdc.edu\/wolfson\/mathcompetition\/contact.html",
+            "htmlFormattedUrl": "www.mdc.edu\/wolfson\/mathcompetition\/contact.html",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http:\/\/www.mdc.edu\/wolfson\/mathcompetition\/images\/MDClogo.jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "221",
+                        "height": "228",
+                        "src": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTpaC8dcd-qnpoOeDoGrKkgRZ_iVnTctQZyH9grg6wp5ahAUWOaSn0zAfM7"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "MDC Magazine - Volume 8, Number 1",
+            "htmlTitle": "MDC Magazine - Volume 8, Number 1",
+            "link": "http:\/\/www.mdc.edu\/main\/mdcmagazine\/archive\/vol08-1\/features\/",
+            "displayLink": "www.mdc.edu",
+            "snippet": "Dr. Alvio Dom\u00ednguez's dedication to educating his students extends far beyond \nthe classroom and is exemplified in his role as the lead instructor for the Math\u00a0...",
+            "htmlSnippet": "Dr. <b>Alvio Dom\u00ednguez&#39;s<\/b> dedication to educating his students extends far beyond <br>\nthe classroom and is exemplified in his role as the lead instructor for the Math&nbsp;...",
+            "cacheId": "rhLt3boUQ6sJ",
+            "formattedUrl": "www.mdc.edu\/main\/mdcmagazine\/archive\/vol08-1\/features\/",
+            "htmlFormattedUrl": "www.mdc.edu\/main\/mdcmagazine\/archive\/vol08-1\/features\/",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http:\/\/www.mdc.edu\/main\/images\/Dominguez_thumb_tcm6-7382.jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "89",
+                        "height": "59",
+                        "src": "https:\/\/encrypted-tbn2.gstatic.com\/images?q=tbn:ANd9GcQ3g6T2jUpkpiLH0X5oaPor41qRouAwJGvLdDqcb7jG2TXrc_UNYNtuQQ"
+                    }
+                ]
+            }
+        }
+    ]
+}
