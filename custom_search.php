@@ -2,19 +2,30 @@
 //TODO: implement algorithm that searches for previous institution work
 //http://faculty.mdc.edu/bgonzal7/
 //link that does not change
-$precision = '5';
+$precision = '6';
 $prec_int = intval($precision);
 
 $default_string = 'https://www.googleapis.com/customsearch/v1?key=';
 
 // key and engine ID's
 $keyID = 'AIzaSyDcV8xHWNgE3U0HjOy4IBfqPfW9dl-tSKM';
-$engineID = '000474850362420949879:o5cf66syyny';
+$engineID = '000474850362420949879:ftjtkwbbyo4';
+// $engineID = '000474850362420949879:o5cf66syyny';
 
 //query values
 $first_name = 'Alvio';
-$last_name = 'Dominguez';
-$query =  $first_name . '+' . $last_name; //add '+' . "education" later
+
+//FOR SEARCHING INSTITUTIONS
+// --------------------------
+// $first_name = 'Alvio';
+// $last_name = 'Dominguez+educational+background+';
+
+$query =  $first_name . '+' . $last_name . '+'; //add '+' . "education" later
+
+//FOR SEARCHING INSTITUTIONS
+// ------------------------------------------
+// $query =  $last_name . '+' . $first_name; //add '+' . "education" later
+
 
 // total link value
 $total = $default_string . $keyID . '&cx=' . $engineID . '&q=' . $query . '&num=' . $precision;
