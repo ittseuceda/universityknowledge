@@ -1,4 +1,4 @@
-<<?php
+<?php
 
 //link that does not change
 $default_string = 'https://www.googleapis.com/customsearch/v1?key=';
