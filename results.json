@@ -7,9 +7,9 @@
     "queries": {
         "nextPage": [
             {
-                "title": "Google Custom Search - Peters Faith education",
-                "totalResults": "25",
-                "searchTerms": "Peters Faith education",
+                "title": "Google Custom Search - Alvio Dominguez",
+                "totalResults": "35",
+                "searchTerms": "Alvio Dominguez",
                 "count": 5,
                 "startIndex": 6,
                 "inputEncoding": "utf8",
@@ -20,9 +20,9 @@
         ],
         "request": [
             {
-                "title": "Google Custom Search - Peters Faith education",
-                "totalResults": "25",
-                "searchTerms": "Peters Faith education",
+                "title": "Google Custom Search - Alvio Dominguez",
+                "totalResults": "35",
+                "searchTerms": "Alvio Dominguez",
                 "count": 5,
                 "startIndex": 1,
                 "inputEncoding": "utf8",
@@ -36,141 +36,143 @@
         "title": "Miami Dade College Search"
     },
     "searchInformation": {
-        "searchTime": 0.18255,
-        "formattedSearchTime": "0.18",
-        "totalResults": "25",
-        "formattedTotalResults": "25"
-    },
-    "spelling": {
-        "correctedQuery": "Peter's Faith education",
-        "htmlCorrectedQuery": "<b><i>Peter&#39;s<\/i><\/b> Faith education"
+        "searchTime": 0.22987,
+        "formattedSearchTime": "0.23",
+        "totalResults": "35",
+        "formattedTotalResults": "35"
     },
     "items": [
         {
             "kind": "customsearch#result",
-            "title": "Minutes",
-            "htmlTitle": "Minutes",
-            "link": "https:\/\/www.mdc.edu\/cassc\/documents\/20081111_Minutes.pdf",
+            "title": "TopFaculty - MDC College Forum - Volume 15, Number 3",
+            "htmlTitle": "TopFaculty - MDC College Forum - Volume 15, Number 3",
+            "link": "https:\/\/www.mdc.edu\/main\/collegeforum\/archive\/vol15-03\/makingtheirmark\/l0200_topfaculty.aspx",
             "displayLink": "www.mdc.edu",
-            "snippet": "Nov 11, 2008 ... Under the auspices of the Academy of Educational Development (AED) \u2013 Open \nWorld. Program ... Professor Steve Ritter and the Wolfson Campus team is \ncoached by Math Professor Faith. Peters and Professor Loftus.",
-            "htmlSnippet": "Nov 11, 2008 <b>...<\/b> Under the auspices of the Academy of <b>Educational<\/b> Development (AED) \u2013 Open <br>\nWorld. Program ... Professor Steve Ritter and the Wolfson Campus team is <br>\ncoached by Math Professor <b>Faith<\/b>. <b>Peters<\/b> and Professor Loftus.",
-            "cacheId": "MZNXSMDGZUsJ",
-            "mime": "application\/pdf",
-            "fileFormat": "PDF\/Adobe Acrobat",
-            "formattedUrl": "https:\/\/www.mdc.edu\/cassc\/documents\/20081111_Minutes.pdf",
-            "htmlFormattedUrl": "https:\/\/www.mdc.edu\/cassc\/documents\/20081111_Minutes.pdf",
-            "pagemap": {
-                "metatags": [
-                    {
-                        "title": "COLLEGE-WIDE ACADEMIC AND STUDENT SUPPORT COUNCIL",
-                        "author": "Campus Network Services",
-                        "creator": "Microsoft\u00ae Office Word 2007",
-                        "creationdate": "D:20081215173856",
-                        "moddate": "D:20081215173856",
-                        "producer": "Microsoft\u00ae Office Word 2007"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Service Year + Higher Education: Innovation Challenge Winner!",
-            "htmlTitle": "Service Year + Higher <b>Education<\/b>: Innovation Challenge Winner!",
-            "link": "http:\/\/www.mdc.edu\/clippings\/2015\/April\/23.pdf",
-            "displayLink": "www.mdc.edu",
-            "snippet": "Apr 23, 2015 ... Prizes for the 2015 Higher Education + Service Year Innovation Challenge ..... \nUniversity (Cincinnati, OH), Saint Peter's University (Jersey City, NJ) ... go,.;\nrnment, the military, the faith community, the philanthropy, and nonprofit\u00a0...",
-            "htmlSnippet": "Apr 23, 2015 <b>...<\/b> Prizes for the 2015 Higher <b>Education<\/b> + Service Year Innovation Challenge ..... <br>\nUniversity (Cincinnati, OH), Saint <b>Peter&#39;s<\/b> University (Jersey City, NJ) ... go,.;<br>\nrnment, the military, the <b>faith<\/b> community, the philanthropy, and nonprofit&nbsp;...",
-            "cacheId": "Rk5lgx_iaFMJ",
-            "mime": "application\/pdf",
-            "fileFormat": "PDF\/Adobe Acrobat",
-            "formattedUrl": "www.mdc.edu\/clippings\/2015\/April\/23.pdf",
-            "htmlFormattedUrl": "www.mdc.edu\/clippings\/2015\/April\/23.pdf",
-            "pagemap": {
-                "metatags": [
-                    {
-                        "creationdate": "D:20150423124821-04'00'",
-                        "creator": "HP Scanjet N9120 Document TWAIN",
-                        "moddate": "D:20150423125921-04'00'",
-                        "producer": "Adobe Acrobat 9.0 Paper Capture Plug-in"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Florida College System Month Spotlights",
-            "htmlTitle": "Florida College System Month Spotlights",
-            "link": "http:\/\/www.mdc.edu\/clippings\/2015\/April\/29.pdf",
-            "displayLink": "www.mdc.edu",
-            "snippet": "Apr 29, 2015 ... University. (Cincinnati, OH), Saint Peter's University (Jersey City, NJ) ... private \nsector, higher education, government, the military, the faith.",
-            "htmlSnippet": "Apr 29, 2015 <b>...<\/b> University. (Cincinnati, OH), Saint <b>Peter&#39;s<\/b> University (Jersey City, NJ) ... private <br>\nsector, higher <b>education<\/b>, government, the military, the <b>faith<\/b>.",
-            "cacheId": "ctd2nWrTUBUJ",
-            "mime": "application\/pdf",
-            "fileFormat": "PDF\/Adobe Acrobat",
-            "formattedUrl": "www.mdc.edu\/clippings\/2015\/April\/29.pdf",
-            "htmlFormattedUrl": "www.mdc.edu\/clippings\/2015\/April\/29.pdf",
-            "pagemap": {
-                "metatags": [
-                    {
-                        "creationdate": "D:20150429122611-04'00'",
-                        "creator": "HP Scanjet N9120 Document TWAIN",
-                        "moddate": "D:20150429123830-04'00'",
-                        "producer": "Adobe Acrobat 9.0 Paper Capture Plug-in"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "List in Seniority Order",
-            "htmlTitle": "List in Seniority Order",
-            "link": "https:\/\/www.mdc.edu\/contract\/seniority\/Seniorityweb.htm",
-            "displayLink": "www.mdc.edu",
-            "snippet": "260, PETERS, FAITH, 13, 1, 26. 261, MOLINA, AMNEL, 13, 1, 26. 262, GEHY-\nANDRE, PASCALE, 12, 11, 28. 263, PHILP, ETON, G, 12, 10, 4. 264, POMARES\n\u00a0...",
-            "htmlSnippet": "260, <b>PETERS<\/b>, <b>FAITH<\/b>, 13, 1, 26. 261, MOLINA, AMNEL, 13, 1, 26. 262, GEHY-<br>\nANDRE, PASCALE, 12, 11, 28. 263, PHILP, ETON, G, 12, 10, 4. 264, POMARES<br>\n&nbsp;...",
-            "cacheId": "NfUObfNRIYIJ",
-            "formattedUrl": "https:\/\/www.mdc.edu\/contract\/seniority\/Seniorityweb.htm",
-            "htmlFormattedUrl": "https:\/\/www.mdc.edu\/contract\/seniority\/Seniorityweb.htm",
-            "pagemap": {
-                "metatags": [
-                    {
-                        "progid": "Excel.Sheet"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Recap: US News STEM Solutions Conference, June 30",
-            "htmlTitle": "Recap: US News STEM Solutions Conference, June 30",
-            "link": "http:\/\/www.mdc.edu\/clippings\/2015\/july\/02.pdf",
-            "displayLink": "www.mdc.edu",
-            "snippet": "Jul 2, 2015 ... Charles A Peters of Emerson introduced the honorees and. Brian Kelly of US. ... \nA group of higher education and industry leaders - inducted into this year's U.S. \nNews STEM Leadership Hall of ...... importance of faith in his life.",
-            "htmlSnippet": "Jul 2, 2015 <b>...<\/b> Charles A <b>Peters<\/b> of Emerson introduced the honorees and. Brian Kelly of US. ... <br>\nA group of higher <b>education<\/b> and industry leaders - inducted into this year&#39;s U.S. <br>\nNews STEM Leadership Hall of ...... importance of <b>faith<\/b> in his life.",
-            "cacheId": "Y45gYzTPhagJ",
-            "mime": "application\/pdf",
-            "fileFormat": "PDF\/Adobe Acrobat",
-            "formattedUrl": "www.mdc.edu\/clippings\/2015\/july\/02.pdf",
-            "htmlFormattedUrl": "www.mdc.edu\/clippings\/2015\/july\/02.pdf",
+            "snippet": "Also taking a leadership role in advancing students through mathematics was \nAlvio Dom\u00ednguez, professor and Math Club coach. He recently led a team of four\n\u00a0...",
+            "htmlSnippet": "Also taking a leadership role in advancing students through mathematics was <br>\n<b>Alvio Dom\u00ednguez<\/b>, professor and Math Club coach. He recently led a team of four<br>\n&nbsp;...",
+            "cacheId": "a9lZWmY5SVgJ",
+            "formattedUrl": "https:\/\/www.mdc.edu\/main\/collegeforum\/...\/l0200_topfaculty.aspx",
+            "htmlFormattedUrl": "https:\/\/www.mdc.edu\/main\/collegeforum\/...\/l0200_topfaculty.aspx",
             "pagemap": {
                 "cse_image": [
                     {
-                        "src": "x-raw-image:\/\/\/bccf000d61f07b96d4405a391a5abd596fa9dd68b3e9c1e9d21af4f3b1f2d08d"
+                        "src": "https:\/\/www.mdc.edu\/main\/images\/TopFacultyDominguez_tcm6-49583.jpg"
                     }
                 ],
                 "cse_thumbnail": [
                     {
-                        "width": "262",
-                        "height": "192",
-                        "src": "https:\/\/encrypted-tbn2.gstatic.com\/images?q=tbn:ANd9GcQm2xU6VwF2kW_4v58DkGHHJRdeK6L3gRM2BOrCNRu5VdLLrVtRs0K96cAd"
+                        "width": "160",
+                        "height": "160",
+                        "src": "https:\/\/encrypted-tbn3.gstatic.com\/images?q=tbn:ANd9GcQbDy21IJZSC9uZApcr9LZJSHWOmVq4arTKBjPd_-TgcKmQ0j-cKc_MvVE"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Dominguez - MDC Magazine - Volume 8, Number 1",
+            "htmlTitle": "<b>Dominguez<\/b> - MDC Magazine - Volume 8, Number 1",
+            "link": "http:\/\/www.mdc.edu\/main\/mdcmagazine\/archive\/vol08-1\/features\/Dominguez.aspx",
+            "displayLink": "www.mdc.edu",
+            "snippet": "Features. The Dom\u00ednguez Code. Dr. Alvio Dom\u00ednguez, associate professor of \nmathematics on Wolfson Campus, has been teaching in the Miami Dade College\n\u00a0...",
+            "htmlSnippet": "Features. The Dom\u00ednguez Code. Dr. <b>Alvio Dom\u00ednguez<\/b>, associate professor of <br>\nmathematics on Wolfson Campus, has been teaching in the Miami Dade College<br>\n&nbsp;...",
+            "cacheId": "jbzhv69MYMgJ",
+            "formattedUrl": "www.mdc.edu\/main\/mdcmagazine\/archive\/vol08...\/Dominguez.aspx",
+            "htmlFormattedUrl": "www.mdc.edu\/main\/mdcmagazine\/archive\/vol08...\/<b>Dominguez<\/b>.aspx",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http:\/\/www.mdc.edu\/main\/images\/Dominguez_thumb_tcm6-7382.jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "89",
+                        "height": "59",
+                        "src": "https:\/\/encrypted-tbn2.gstatic.com\/images?q=tbn:ANd9GcQ3g6T2jUpkpiLH0X5oaPor41qRouAwJGvLdDqcb7jG2TXrc_UNYNtuQQ"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Faculty Q&A: Dr. Alvio Dominguez",
+            "htmlTitle": "Faculty Q&amp;A: Dr. <b>Alvio Dominguez<\/b>",
+            "link": "http:\/\/www.mdc.edu\/main\/newsandnotes\/2009\/vol7-16\/facandstaff\/topstory.aspx",
+            "displayLink": "www.mdc.edu",
+            "snippet": "Apr 20, 2009 ... News & Notes recently spoke with Dr. Alvio Dominguez, associate professor of \nmathematics at Wolfson Campus. Dr. Dominguez has taught at\u00a0...",
+            "htmlSnippet": "Apr 20, 2009 <b>...<\/b> News &amp; Notes recently spoke with Dr. <b>Alvio Dominguez<\/b>, associate professor of <br>\nmathematics at Wolfson Campus. Dr. Dominguez has taught at&nbsp;...",
+            "cacheId": "8CC6d7tXthIJ",
+            "formattedUrl": "www.mdc.edu\/main\/newsandnotes\/2009\/vol7-16\/...\/topstory.aspx",
+            "htmlFormattedUrl": "www.mdc.edu\/main\/newsandnotes\/2009\/vol7-16\/...\/topstory.aspx",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "http:\/\/www.mdc.edu\/main\/images\/dominguez-classroom-1_cover_300_tcm6-11647.jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "240",
+                        "height": "160",
+                        "src": "https:\/\/encrypted-tbn1.gstatic.com\/images?q=tbn:ANd9GcR_-V1XvNRGgreHFi4YQSOaPzW35NJuOcrXxO9guAuiN64sMdehGQVsmOQ"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Math Club",
+            "htmlTitle": "Math Club",
+            "link": "https:\/\/www.mdc.edu\/wolfson\/departments\/math\/math%20club.htm",
+            "displayLink": "www.mdc.edu",
+            "snippet": "Coach: Dr. Alvio Dominguez adoming1@mdc.edu. Members: Maria Carla \nCanizares Otero. David Fink. Daniel Dodge. Erik Gutierrez. Maria Presa. Adrian \nNazco.",
+            "htmlSnippet": "Coach: Dr. <b>Alvio Dominguez<\/b> adoming1@mdc.edu. Members: Maria Carla <br>\nCanizares Otero. David Fink. Daniel Dodge. Erik Gutierrez. Maria Presa. Adrian <br>\nNazco.",
+            "cacheId": "Z_WOzqbIH-gJ",
+            "formattedUrl": "https:\/\/www.mdc.edu\/wolfson\/departments\/math\/math%20club.htm",
+            "htmlFormattedUrl": "https:\/\/www.mdc.edu\/wolfson\/departments\/math\/math%20club.htm",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "https:\/\/www.mdc.edu\/wolfson\/departments\/math\/images\/b_wolfson.jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "136",
+                        "height": "60",
+                        "src": "https:\/\/encrypted-tbn1.gstatic.com\/images?q=tbn:ANd9GcRhDzzUvgRA0XBzAWNVroHUNIFiip4Gv9vHX-T8Wcao_TCQyPh55wAiZw"
                     }
                 ],
                 "metatags": [
                     {
-                        "creationdate": "D:20150702123017-04'00'",
-                        "creator": "HP Scanjet N9120 Document TWAIN",
-                        "moddate": "D:20150702124010-04'00'",
-                        "producer": "Adobe Acrobat 9.0 Paper Capture Plug-in"
+                        "progid": "FrontPage.Editor.Document"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Miami Dade College Students Take Top Honors at the 2015 State ...",
+            "htmlTitle": "Miami Dade College Students Take Top Honors at the 2015 State <b>...<\/b>",
+            "link": "https:\/\/www.mdc.edu\/main\/news\/articles\/2015\/04\/mdcstudents_take_top_honors_at_the_2015_.aspx",
+            "displayLink": "www.mdc.edu",
+            "snippet": "Apr 16, 2015 ... Faculty Advisor: Alvio Dominguez. InterAmerican Campus. Student: Rene Esusy \n\u2013 2nd Place in the Individual Competition. Faculty Advisors:.",
+            "htmlSnippet": "Apr 16, 2015 <b>...<\/b> Faculty Advisor: <b>Alvio Dominguez<\/b>. InterAmerican Campus. Student: Rene Esusy <br>\n\u2013 2<sup>nd<\/sup> Place in the Individual Competition. Faculty Advisors:.",
+            "cacheId": "gqDYEbCPfx4J",
+            "formattedUrl": "https:\/\/www.mdc.edu\/...\/mdcstudents_take_top_honors_at_the_2015_.aspx",
+            "htmlFormattedUrl": "https:\/\/www.mdc.edu\/...\/mdcstudents_take_top_honors_at_the_2015_.aspx",
+            "pagemap": {
+                "cse_image": [
+                    {
+                        "src": "https:\/\/www.mdc.edu\/main\/images\/hurry_tcm6-98280.jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "width": "240",
+                        "height": "160",
+                        "src": "https:\/\/encrypted-tbn2.gstatic.com\/images?q=tbn:ANd9GcS85-kA7ptUFAATP8ORIVb2ok5AKEvofowQzAleVIL0Kw3vdO6JM6cXTBVA"
                     }
                 ]
             }

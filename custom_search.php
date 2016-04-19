@@ -12,8 +12,8 @@ $keyID = 'AIzaSyDcV8xHWNgE3U0HjOy4IBfqPfW9dl-tSKM';
 $engineID = '000474850362420949879:o5cf66syyny';
 
 //query values
-$first_name = 'Peters';
-$last_name = 'Faith';
+$first_name = 'Alvio';
+$last_name = 'Dominguez';
 $query =  $first_name . '+' . $last_name; //add '+' . "education" later
 
 // total link value
