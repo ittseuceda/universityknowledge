@@ -1,5 +1,6 @@
 <?php
-//TODO: implement algorithm that searches for previous institution work
+/*Using Google Custom Search Engine ~ Searches for educational background*/
+
 //http://faculty.mdc.edu/bgonzal7/
 //link that does not change
 $precision = '6';
@@ -9,23 +10,18 @@ $default_string = 'https://www.googleapis.com/customsearch/v1?key=';
 
 // key and engine ID's
 $keyID = 'AIzaSyDcV8xHWNgE3U0HjOy4IBfqPfW9dl-tSKM';
-$engineID = '000474850362420949879:ftjtkwbbyo4';
+$engineID = '009123266734325814312:tocwhdtadbm';
 // $engineID = '000474850362420949879:o5cf66syyny';
-
-//query values
-$first_name = 'Alvio';
 
 //FOR SEARCHING INSTITUTIONS
 // --------------------------
-// $first_name = 'Alvio';
-// $last_name = 'Dominguez+educational+background+';
-
-$query =  $first_name . '+' . $last_name . '+'; //add '+' . "education" later
+$first_name = 'Alvio';
+$last_name = 'Dominguez';
+// $combined_name =  $last_name . $first_name . '+educational+background+';
 
 //FOR SEARCHING INSTITUTIONS
 // ------------------------------------------
-// $query =  $last_name . '+' . $first_name; //add '+' . "education" later
-
+$query =  $last_name . '+' . $first_name . '+educational+background';
 
 // total link value
 $total = $default_string . $keyID . '&cx=' . $engineID . '&q=' . $query . '&num=' . $precision;

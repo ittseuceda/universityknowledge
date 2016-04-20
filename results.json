@@ -7,28 +7,28 @@
     "queries": {
         "nextPage": [
             {
-                "title": "Google Custom Search - Dominguez educational background  Alvio",
-                "totalResults": "27200",
-                "searchTerms": "Dominguez educational background  Alvio",
+                "title": "Google Custom Search - Dominguez Alvio educational background",
+                "totalResults": "165",
+                "searchTerms": "Dominguez Alvio educational background",
                 "count": 6,
                 "startIndex": 7,
                 "inputEncoding": "utf8",
                 "outputEncoding": "utf8",
                 "safe": "off",
-                "cx": "000474850362420949879:ftjtkwbbyo4"
+                "cx": "009123266734325814312:tocwhdtadbm"
             }
         ],
         "request": [
             {
-                "title": "Google Custom Search - Dominguez educational background  Alvio",
-                "totalResults": "27200",
-                "searchTerms": "Dominguez educational background  Alvio",
+                "title": "Google Custom Search - Dominguez Alvio educational background",
+                "totalResults": "165",
+                "searchTerms": "Dominguez Alvio educational background",
                 "count": 6,
                 "startIndex": 1,
                 "inputEncoding": "utf8",
                 "outputEncoding": "utf8",
                 "safe": "off",
-                "cx": "000474850362420949879:ftjtkwbbyo4"
+                "cx": "009123266734325814312:tocwhdtadbm"
             }
         ]
     },
@@ -36,14 +36,10 @@
         "title": "Faculty.mdc.edu"
     },
     "searchInformation": {
-        "searchTime": 0.354519,
-        "formattedSearchTime": "0.35",
-        "totalResults": "27200",
-        "formattedTotalResults": "27,200"
-    },
-    "spelling": {
-        "correctedQuery": "Dominguez educational background Alivio",
-        "htmlCorrectedQuery": "Dominguez educational background <b><i>Alivio<\/i><\/b>"
+        "searchTime": 0.222205,
+        "formattedSearchTime": "0.22",
+        "totalResults": "165",
+        "formattedTotalResults": "165"
     },
     "items": [
         {
@@ -290,8 +286,8 @@
             "htmlTitle": "<b>History<\/b> | <b>Dominguez<\/b> Rancho Adobe Museum",
             "link": "http:\/\/dominguezrancho.org\/history\/",
             "displayLink": "dominguezrancho.org",
-            "snippet": "The land has passed through successive generations and remains in the \nDominguez family. Today, the descendants operate the Watson Land Company \nand\u00a0...",
-            "htmlSnippet": "The land has passed through successive generations and remains in the <br>\n<b>Dominguez family<\/b>. Today, the descendants operate the Watson Land Company <br>\nand&nbsp;...",
+            "snippet": "Periods First Spanish Land Grant Juan Jose Dominguez Era Cristobal \nDominguez Era Manuel Dominguez Era Mexican Independence Battle of \nDominguez.",
+            "htmlSnippet": "Periods First Spanish Land Grant Juan Jose <b>Dominguez<\/b> Era Cristobal <br>\n<b>Dominguez<\/b> Era Manuel <b>Dominguez<\/b> Era Mexican Independence Battle of <br>\n<b>Dominguez<\/b>.",
             "cacheId": "-RX0eFP-e2kJ",
             "formattedUrl": "dominguezrancho.org\/history\/",
             "htmlFormattedUrl": "<b>dominguez<\/b>rancho.org\/<b>history<\/b>\/",
