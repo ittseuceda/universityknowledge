@@ -5,303 +5,61 @@
         "template": "https:\/\/www.googleapis.com\/customsearch\/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
     },
     "queries": {
-        "nextPage": [
-            {
-                "title": "Google Custom Search - Dominguez Alvio educational background",
-                "totalResults": "165",
-                "searchTerms": "Dominguez Alvio educational background",
-                "count": 6,
-                "startIndex": 7,
-                "inputEncoding": "utf8",
-                "outputEncoding": "utf8",
-                "safe": "off",
-                "cx": "009123266734325814312:tocwhdtadbm"
-            }
-        ],
         "request": [
             {
-                "title": "Google Custom Search - Dominguez Alvio educational background",
-                "totalResults": "165",
-                "searchTerms": "Dominguez Alvio educational background",
-                "count": 6,
+                "title": "Google Custom Search - Gonzales Belarmino educational background",
+                "totalResults": "1",
+                "searchTerms": "Gonzales Belarmino educational background",
+                "count": 1,
                 "startIndex": 1,
                 "inputEncoding": "utf8",
                 "outputEncoding": "utf8",
                 "safe": "off",
-                "cx": "009123266734325814312:tocwhdtadbm"
+                "cx": "000474850362420949879:o5cf66syyny"
             }
         ]
     },
     "context": {
-        "title": "Faculty.mdc.edu"
+        "title": "Miami Dade College Search"
     },
     "searchInformation": {
-        "searchTime": 0.200573,
-        "formattedSearchTime": "0.20",
-        "totalResults": "165",
-        "formattedTotalResults": "165"
+        "searchTime": 0.438772,
+        "formattedSearchTime": "0.44",
+        "totalResults": "1",
+        "formattedTotalResults": "1"
+    },
+    "spelling": {
+        "correctedQuery": "Gonzalez Belarmino educational background",
+        "htmlCorrectedQuery": "<b><i>Gonzalez<\/i><\/b> Belarmino educational background"
     },
     "items": [
         {
             "kind": "customsearch#result",
-            "title": "Alvio Dominguez",
-            "htmlTitle": "<b>Alvio Dominguez<\/b>",
-            "link": "http:\/\/faculty.mdc.edu\/adoming1\/",
-            "displayLink": "faculty.mdc.edu",
-            "snippet": "EDUCATIONAL BACKGROUND. Ph.D. Mathematics, University of Miami, 2006 \nM.S. Mathematics, Florida International University, 1999 B.A. Mathematics\u00a0...",
-            "htmlSnippet": "<b>EDUCATIONAL BACKGROUND<\/b>. Ph.D. Mathematics, University of Miami, 2006 <br>\nM.S. Mathematics, Florida International University, 1999 B.A. Mathematics&nbsp;...",
-            "cacheId": "iFY2DN67fZ4J",
-            "formattedUrl": "faculty.mdc.edu\/adoming1\/",
-            "htmlFormattedUrl": "faculty.mdc.edu\/adoming1\/",
+            "title": "faculty",
+            "htmlTitle": "faculty",
+            "link": "https:\/\/www.mdc.edu\/wolfson\/departments\/math\/people\/faculty.htm",
+            "displayLink": "www.mdc.edu",
+            "snippet": "Gonzalez, Belarmino, 1534, 237-3569, bgonzal5@mdc.edu \u00b7 Belarmino \nGonzalez. Guillen, Guillermo, 1533, 237-7578, gguillen@mdc.edu \u00b7 Guillermo \nGuillen.",
+            "htmlSnippet": "<b>Gonzalez<\/b>, <b>Belarmino<\/b>, 1534, 237-3569, bgonzal5@mdc.edu &middot; Belarmino <br>\nGonzalez. Guillen, Guillermo, 1533, 237-7578, gguillen@mdc.edu &middot; Guillermo <br>\nGuillen.",
+            "cacheId": "FG4dBQtmTtcJ",
+            "formattedUrl": "https:\/\/www.mdc.edu\/wolfson\/departments\/math\/people\/faculty.htm",
+            "htmlFormattedUrl": "https:\/\/www.mdc.edu\/wolfson\/departments\/math\/people\/faculty.htm",
             "pagemap": {
                 "cse_image": [
                     {
-                        "src": "http:\/\/faculty.mdc.edu\/adoming1\/images\/b_kendall.jpg"
+                        "src": "https:\/\/www.mdc.edu\/wolfson\/departments\/math\/images\/b_wolfson.jpg"
                     }
                 ],
                 "cse_thumbnail": [
                     {
                         "width": "136",
                         "height": "60",
-                        "src": "https:\/\/encrypted-tbn2.gstatic.com\/images?q=tbn:ANd9GcSPe8OSngM6GeYuPvCFes8N8pN3TIBr91GrxnGe7yjKIz1nawSs40Zegw"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "The Honorees with Dr. Alvio Dominguez - YouTube",
-            "htmlTitle": "The Honorees with Dr. <b>Alvio Dominguez<\/b> - YouTube",
-            "link": "https:\/\/www.youtube.com\/watch?v=IPgHEluZnX0",
-            "displayLink": "www.youtube.com",
-            "snippet": "Jul 15, 2014 ... Every year, MDC selects distinguished professors who continue to demonstrate \nexcellence in teaching, effective communications with students\u00a0...",
-            "htmlSnippet": "Jul 15, 2014 <b>...<\/b> Every year, MDC selects distinguished professors who continue to demonstrate <br>\nexcellence in teaching, effective communications with students&nbsp;...",
-            "cacheId": "fsWTw250PcgJ",
-            "formattedUrl": "https:\/\/www.youtube.com\/watch?v=IPgHEluZnX0",
-            "htmlFormattedUrl": "https:\/\/www.youtube.com\/watch?v=IPgHEluZnX0",
-            "pagemap": {
-                "cse_image": [
-                    {
-                        "src": "https:\/\/i.ytimg.com\/vi\/IPgHEluZnX0\/maxresdefault.jpg"
-                    }
-                ],
-                "videoobject": [
-                    {
-                        "url": "https:\/\/www.youtube.com\/watch?v=IPgHEluZnX0",
-                        "name": "The Honorees with Dr. Alvio Dominguez",
-                        "description": "Every year, MDC selects distinguished professors who continue to demonstrate excellence in teaching, effective communications with students and professional ...",
-                        "paid": "False",
-                        "channelid": "UCiUgbduPJOQSAFFvF_lXLxQ",
-                        "videoid": "IPgHEluZnX0",
-                        "duration": "PT26M2S",
-                        "unlisted": "False",
-                        "thumbnailurl": "https:\/\/i.ytimg.com\/vi\/IPgHEluZnX0\/maxresdefault.jpg",
-                        "embedurl": "https:\/\/www.youtube.com\/embed\/IPgHEluZnX0",
-                        "playertype": "HTML5 Flash",
-                        "width": "1280",
-                        "height": "720",
-                        "isfamilyfriendly": "True",
-                        "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
-                        "interactioncount": "325",
-                        "datepublished": "2014-07-15",
-                        "genre": "Education"
-                    }
-                ],
-                "person": [
-                    {
-                        "url": "http:\/\/www.youtube.com\/user\/watchmdctv"
-                    },
-                    {
-                        "url": "https:\/\/plus.google.com\/110663880142715573316"
-                    }
-                ],
-                "cse_thumbnail": [
-                    {
-                        "width": "300",
-                        "height": "168",
-                        "src": "https:\/\/encrypted-tbn3.gstatic.com\/images?q=tbn:ANd9GcQPe2z-O_Qd7TKeZFhoCQoOfo0C0aXKlXvWKDOyzFml2r0Ksffpz9LdF3I"
+                        "src": "https:\/\/encrypted-tbn1.gstatic.com\/images?q=tbn:ANd9GcRhDzzUvgRA0XBzAWNVroHUNIFiip4Gv9vHX-T8Wcao_TCQyPh55wAiZw"
                     }
                 ],
                 "metatags": [
                     {
-                        "theme-color": "#e62117",
-                        "title": "The Honorees with Dr. Alvio Dominguez",
-                        "og:site_name": "YouTube",
-                        "og:url": "https:\/\/www.youtube.com\/watch?v=IPgHEluZnX0",
-                        "og:title": "The Honorees with Dr. Alvio Dominguez",
-                        "og:image": "https:\/\/i.ytimg.com\/vi\/IPgHEluZnX0\/maxresdefault.jpg",
-                        "og:description": "Every year, MDC selects distinguished professors who continue to demonstrate excellence in teaching, effective communications with students and professional ...",
-                        "al:ios:app_store_id": "544007664",
-                        "al:ios:app_name": "YouTube",
-                        "al:ios:url": "vnd.youtube:\/\/www.youtube.com\/watch?v=IPgHEluZnX0&feature=applinks",
-                        "al:android:url": "vnd.youtube:\/\/www.youtube.com\/watch?v=IPgHEluZnX0&feature=applinks",
-                        "al:android:app_name": "YouTube",
-                        "al:android:package": "com.google.android.youtube",
-                        "al:web:url": "https:\/\/www.youtube.com\/watch?v=IPgHEluZnX0&feature=applinks",
-                        "og:type": "video",
-                        "og:video:url": "https:\/\/www.youtube.com\/embed\/IPgHEluZnX0",
-                        "og:video:secure_url": "https:\/\/www.youtube.com\/embed\/IPgHEluZnX0",
-                        "og:video:type": "text\/html",
-                        "og:video:width": "1280",
-                        "og:video:height": "720",
-                        "fb:app_id": "87741124305",
-                        "twitter:card": "player",
-                        "twitter:site": "@youtube",
-                        "twitter:url": "https:\/\/www.youtube.com\/watch?v=IPgHEluZnX0",
-                        "twitter:title": "The Honorees with Dr. Alvio Dominguez",
-                        "twitter:description": "Every year, MDC selects distinguished professors who continue to demonstrate excellence in teaching, effective communications with students and professional ...",
-                        "twitter:image": "https:\/\/i.ytimg.com\/vi\/IPgHEluZnX0\/maxresdefault.jpg",
-                        "twitter:app:name:iphone": "YouTube",
-                        "twitter:app:id:iphone": "544007664",
-                        "twitter:app:name:ipad": "YouTube",
-                        "twitter:app:id:ipad": "544007664",
-                        "twitter:app:url:iphone": "vnd.youtube:\/\/www.youtube.com\/watch?v=IPgHEluZnX0&feature=applinks",
-                        "twitter:app:url:ipad": "vnd.youtube:\/\/www.youtube.com\/watch?v=IPgHEluZnX0&feature=applinks",
-                        "twitter:app:name:googleplay": "YouTube",
-                        "twitter:app:id:googleplay": "com.google.android.youtube",
-                        "twitter:app:url:googleplay": "https:\/\/www.youtube.com\/watch?v=IPgHEluZnX0",
-                        "twitter:player": "https:\/\/www.youtube.com\/embed\/IPgHEluZnX0",
-                        "twitter:player:width": "1280",
-                        "twitter:player:height": "720"
-                    }
-                ],
-                "imageobject": [
-                    {
-                        "url": "https:\/\/i.ytimg.com\/vi\/IPgHEluZnX0\/maxresdefault.jpg",
-                        "width": "1280",
-                        "height": "720"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Alvio Dominguez | LinkedIn",
-            "htmlTitle": "<b>Alvio Dominguez<\/b> | LinkedIn",
-            "link": "https:\/\/www.linkedin.com\/in\/alvio-dominguez-536b5b54",
-            "displayLink": "www.linkedin.com",
-            "snippet": "View Alvio Dominguez's professional profile on LinkedIn. LinkedIn is the world's \nlargest business ... Current. Miami Dade College. Education. University of Miami\n\u00a0...",
-            "htmlSnippet": "View <b>Alvio Dominguez&#39;s<\/b> professional profile on LinkedIn. LinkedIn is the world&#39;s <br>\nlargest business ... Current. Miami Dade College. <b>Education<\/b>. University of Miami<br>\n&nbsp;...",
-            "formattedUrl": "https:\/\/www.linkedin.com\/in\/alvio-dominguez-536b5b54",
-            "htmlFormattedUrl": "https:\/\/www.linkedin.com\/in\/<b>alvio<\/b>-<b>dominguez<\/b>-536b5b54",
-            "pagemap": {
-                "person": [
-                    {
-                        "org": "Miami Dade College",
-                        "location": "Miami, Florida",
-                        "role": "Math Professor at Miami Dade College"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "referrer": "origin",
-                        "pageimpressionid": "23259819-fb16-4006-8e95-f8038e897b6f",
-                        "appname": "chrome",
-                        "pagekey": "public_profile_v3_desktop",
-                        "treeid": "0kknVq7CQhQAi3hVMisAAA==",
-                        "globaltrackingurl": "\/\/www.linkedin.com\/mob\/tracking",
-                        "globaltrackingappname": "chrome",
-                        "globaltrackingappid": "webTracking",
-                        "msapplication-tileimage": "https:\/\/static.licdn.com\/scds\/common\/u\/images\/logos\/linkedin\/logo-in-win8-tile-144_v1.png",
-                        "msapplication-tilecolor": "#0077B5",
-                        "application-name": "LinkedIn",
-                        "remotenavjscontentbaseurl": "https:\/\/static.licdn.com\/scds\/concat\/common\/js?v=build-2000_8_55312-prod",
-                        "lnkd-track-json-lib": "https:\/\/static.licdn.com\/scds\/concat\/common\/js?h=2jds9coeh4w78ed9wblscv68v-ebbt2vixcc5qz0otts5io08xv",
-                        "jet-chromeversion": "0.0.2000-RC8.55312",
-                        "jet-schost": "static.licdn.com",
-                        "jet-csrftoken": "ajax:4274320603776113135",
-                        "og:title": "Alvio Dominguez | LinkedIn",
-                        "og:description": "View Alvio Dominguez\u2019s professional profile on LinkedIn. LinkedIn is the world's largest business network, helping professionals like Alvio Dominguez discover inside connections to recommended job candidates, industry experts, and business partners.",
-                        "detectadblock": "\/\/platform.linkedin.com\/js\/px.js"
-                    }
-                ],
-                "hcard": [
-                    {
-                        "fn": "Alvio Dominguez",
-                        "title": "Math Professor at Miami Dade College"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Alvio Dominguez (@hscllive) | Twitter",
-            "htmlTitle": "<b>Alvio Dominguez<\/b> (@hscllive) | Twitter",
-            "link": "https:\/\/twitter.com\/hscllive",
-            "displayLink": "twitter.com",
-            "snippet": "The latest Tweets from Alvio Dominguez (@hscllive). Intuit Premier Solution \nProvider Tobacconist. Specializing in Point of Sale and Merchant Services for \nCigar\u00a0...",
-            "htmlSnippet": "The latest Tweets from <b>Alvio Dominguez<\/b> (@hscllive). Intuit Premier Solution <br>\nProvider Tobacconist. Specializing in Point of Sale and Merchant Services for <br>\nCigar&nbsp;...",
-            "cacheId": "oIJ4UjgLG-sJ",
-            "formattedUrl": "https:\/\/twitter.com\/hscllive",
-            "htmlFormattedUrl": "https:\/\/twitter.com\/hscllive",
-            "pagemap": {
-                "cse_image": [
-                    {
-                        "src": "https:\/\/pbs.twimg.com\/profile_images\/1167227611\/march07_400x400.jpg"
-                    }
-                ],
-                "cse_thumbnail": [
-                    {
-                        "width": "225",
-                        "height": "225",
-                        "src": "https:\/\/encrypted-tbn2.gstatic.com\/images?q=tbn:ANd9GcSIcNSpGUAtpORw4Ak5xla68NZYcoyNJF2EHKgxCKNnzvvGWO_s2JwxYes"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "msapplication-tileimage": "\/\/abs.twimg.com\/favicons\/win8-tile-144.png",
-                        "msapplication-tilecolor": "#00aced",
-                        "swift-page-name": "profile"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Alvio Dominguez | Facebook",
-            "htmlTitle": "<b>Alvio Dominguez<\/b> | Facebook",
-            "link": "https:\/\/www.facebook.com\/alvio.dominguez",
-            "displayLink": "www.facebook.com",
-            "snippet": "Join Facebook to connect with Alvio Dominguez and others you may know. \nFacebook ... Consultant. Education. Archbishop Curley - Notre Dame High \nSchool.",
-            "htmlSnippet": "Join Facebook to connect with <b>Alvio Dominguez<\/b> and others you may know. <br>\nFacebook ... Consultant. <b>Education<\/b>. Archbishop Curley - Notre Dame High <br>\nSchool.",
-            "formattedUrl": "https:\/\/www.facebook.com\/alvio.dominguez",
-            "htmlFormattedUrl": "https:\/\/www.facebook.com\/<b>alvio<\/b>.<b>dominguez<\/b>",
-            "pagemap": {
-                "metatags": [
-                    {
-                        "referrer": "default",
-                        "al:android:app_name": "Facebook",
-                        "al:android:package": "com.facebook.katana",
-                        "al:android:url": "fb:\/\/profile\/1329846097",
-                        "al:ios:app_name": "Facebook",
-                        "al:ios:app_store_id": "284882215",
-                        "al:ios:url": "fb:\/\/profile\/1329846097"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "History | Dominguez Rancho Adobe Museum",
-            "htmlTitle": "<b>History<\/b> | <b>Dominguez<\/b> Rancho Adobe Museum",
-            "link": "http:\/\/dominguezrancho.org\/history\/",
-            "displayLink": "dominguezrancho.org",
-            "snippet": "Periods First Spanish Land Grant Juan Jose Dominguez Era Cristobal \nDominguez Era Manuel Dominguez Era Mexican Independence Battle of \nDominguez.",
-            "htmlSnippet": "Periods First Spanish Land Grant Juan Jose <b>Dominguez<\/b> Era Cristobal <br>\n<b>Dominguez<\/b> Era Manuel <b>Dominguez<\/b> Era Mexican Independence Battle of <br>\n<b>Dominguez<\/b>.",
-            "cacheId": "-RX0eFP-e2kJ",
-            "formattedUrl": "dominguezrancho.org\/history\/",
-            "htmlFormattedUrl": "<b>dominguez<\/b>rancho.org\/<b>history<\/b>\/",
-            "pagemap": {
-                "cse_image": [
-                    {
-                        "src": "http:\/\/dominguezrancho.org\/wp-content\/history\/map-of-spanish-land-grants-th.jpg"
-                    }
-                ],
-                "cse_thumbnail": [
-                    {
-                        "width": "96",
-                        "height": "96",
-                        "src": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSrxDf36LSUfeBPkQTnPPDCq9iOM79OXUfql5-fJomrHIb6xCR3MVtu1g"
+                        "progid": "FrontPage.Editor.Document"
                     }
                 ]
             }

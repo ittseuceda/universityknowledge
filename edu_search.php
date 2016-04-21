@@ -3,7 +3,7 @@
 
 //http://faculty.mdc.edu/bgonzal7/
 //link that does not change
-$precision = '6';
+$precision = '5';
 $prec_int = intval($precision);
 
 $default_string = 'https://www.googleapis.com/customsearch/v1?key=';
@@ -11,17 +11,17 @@ $default_string = 'https://www.googleapis.com/customsearch/v1?key=';
 // key and engine ID's
 $keyID = 'AIzaSyDcV8xHWNgE3U0HjOy4IBfqPfW9dl-tSKM';
 //MDC ID
-$engineID = '009123266734325814312:tocwhdtadbm';
+$engineID = '000474850362420949879:ftjtkwbbyo4';
 
-//fIU's engide Id
+//FIU's engine Id
 // $engineID = '009123266734325814312:p6yseolqs0c'
 // best one
-// $engineID = '000474850362420949879:o5cf66syyny';
+$engineID = '000474850362420949879:o5cf66syyny';
 
 //FOR SEARCHING INSTITUTIONS
 // --------------------------
-$first_name = 'Alvio';
-$last_name = 'Dominguez';
+$first_name = 'Belarmino';
+$last_name = 'Gonzales';
 // $combined_name =  $last_name . $first_name . '+educational+background+';
 
 //FOR SEARCHING INSTITUTIONS
@@ -53,22 +53,38 @@ $file = fopen('values.json', 'w');
 //displaying to terminal
 for($i = 0;$i < $prec_int;$i++)
 {
+  // $string = $json_a['items'][$i]['snippet'];
   $string = $json_a['items'][$i]['snippet'];
   echo $string;
 }
 
-//writing to file
+// writing to file
 for($i = 0;$i < $prec_int;$i++)
 {
   $string = $json_a['items'][$i]['snippet'];
   fwrite($file, $string);
 }
-//close values.json
-fclose($file);
-//TODO: close files when done debugging
+
+// fclose($file);
+
+
+// echo $line;
+// echo $dude;
+// while (!feof($file)) 
+// {
+//   $line_of_text = fgets($file); 
+//   echo $line_of_text;
+
+// }
+
+// //close values.json
+// //close 
+// // fclose($fp);
+
+// // TODO: close files when done debugging
 // $fh = fopen( 'results.json', 'w+');
 // fclose($fh);
-//
+
 // $file = fopen('values.json', 'w');
 // fclose($file);
 ?>
