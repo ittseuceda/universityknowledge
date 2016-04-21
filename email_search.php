@@ -34,7 +34,6 @@ $query =  $first_name . '+' . $last_name . '+'; //add '+' . "education" later
 // $total = $default_string . $keyID . '&cx=' . $engineID . '&q=' . $query . '&num=' . $precision;
 $total = $default_string . $keyID . '&cx=' . $engineID . '&q=' . $query . '&num=' . $precision;
 
-
 $result = file_get_contents($total);
 
 $obj = json_decode($result, true);
