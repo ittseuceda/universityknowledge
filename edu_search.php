@@ -11,12 +11,12 @@ $default_string = 'https://www.googleapis.com/customsearch/v1?key=';
 // key and engine ID's
 $keyID = 'AIzaSyDcV8xHWNgE3U0HjOy4IBfqPfW9dl-tSKM';
 //MDC ID
-$engineID = '000474850362420949879:ftjtkwbbyo4';
+$engineID = '009123266734325814312:tocwhdtadbm';
 
 //FIU's engine Id
 // $engineID = '009123266734325814312:p6yseolqs0c'
 // best one
-$engineID = '000474850362420949879:o5cf66syyny';
+// $engineID = '000474850362420949879:o5cf66syyny';
 
 //FOR SEARCHING INSTITUTIONS
 // --------------------------
@@ -26,7 +26,7 @@ $last_name = 'Gonzales';
 
 //FOR SEARCHING INSTITUTIONS
 // ------------------------------------------
-$query =  $last_name . '+' . $first_name . '+educational+background';
+$query =  $last_name . '+' . $first_name . '+educational+background+';
 
 // total link value
 $total = $default_string . $keyID . '&cx=' . $engineID . '&q=' . $query . '&num=' . $precision;

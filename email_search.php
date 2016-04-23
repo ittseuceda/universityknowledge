@@ -11,12 +11,12 @@ $default_string = 'https://www.googleapis.com/customsearch/v1?key=';
 // key and engine ID's
 $keyID = 'AIzaSyDcV8xHWNgE3U0HjOy4IBfqPfW9dl-tSKM';
 //this one
-// $engineID = '009123266734325814312:tocwhdtadbm';
-$engineID = '000474850362420949879:o5cf66syyny';
+$engineID = '009123266734325814312:tocwhdtadbm';
+// $engineID = '000474850362420949879:o5cf66syyny';
 
 //query values
-$first_name = 'Belarmino';
-$last_name = 'Gonzales';
+$first_name = 'Davia';
+$last_name = 'Holness';
 
 //FOR SEARCHING INSTITUTIONS
 // --------------------------
@@ -36,14 +36,14 @@ $total = $default_string . $keyID . '&cx=' . $engineID . '&q=' . $query . '&num=
 
 $result = file_get_contents($total);
 
-$obj = json_decode($result, true);
-//json encode the $obj with pretty print
-$obj = json_encode($obj, JSON_PRETTY_PRINT);
+// $obj = json_decode($result, true);
+// //json encode the $obj with pretty print
+// $obj = json_encode($obj, JSON_PRETTY_PRINT);
 
 //open file
 $fp = fopen('results.json', 'w');
 //write file
-fwrite($fp, $obj);
+fwrite($fp, $result);
 //close file
 fclose($fp);
 
@@ -51,7 +51,7 @@ $string = file_get_contents("results.json");
 $json_a=json_decode($string,true);
 
 //opening values.json
-$file = fopen('values.json', 'w');
+$file = fopen('values.txt', 'w');
 
 //displaying to terminal
 for($i = 0;$i < $prec_int;$i++)
@@ -74,4 +74,17 @@ fclose($file);
 //
 // $file = fopen('values.json', 'w');
 // fclose($file);
+
+// What to look for
+$search = '@mdc.edu';
+// Read from file
+$lines = file('values.txt');
+
+// foreach($lines as $line)
+// {
+//   $line = file_get_contents('http://faculty.mdc.edu/dholnes/');
+//   // Check if the line contains the string we're looking for, and print if it does
+//   if(strpos($line, $search) !== false)
+//     echo $line;
+// }
 ?>
