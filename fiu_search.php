@@ -2,8 +2,8 @@
 // Include the library
 include('simple_html_dom.php');
 
-$first_name = 'Vincent';
-$last_name = 'Sanchez';
+$first_name = 'Martin';
+$last_name = 'Tracey';
 
 // Retrieve the DOM from a given URL
 $html = file_get_html('http://phonebook.fiu.edu/?q=' . $first_name . '+' 
