@@ -2,8 +2,9 @@
 // Include the library
 include('simple_html_dom.php');
 
-$first_name = 'Martin';
-$last_name = 'Tracey';
+
+$first_name = 'Lindsay';
+$last_name = 'Malloy';
 
 // Retrieve the DOM from a given URL
 $html = file_get_html('http://phonebook.fiu.edu/?q=' . $first_name . '+' 
@@ -18,7 +19,7 @@ $html = file_get_html('http://phonebook.fiu.edu/?q=' . $first_name . '+'
 //     echo $e->innertext . '<br>';
 
 //opening values.json
-$file = fopen('fiu.html', 'w');
+$file = fopen('fiu_results.html', 'w');
 
 /*Dumping values to file*/
 foreach ($html->find('legend') as $e)
