@@ -3,13 +3,13 @@
 include('simple_html_dom.php');
 
 
-$first_name = "davia";
+$first_name = 'ruz';
 
 $f_name = substr($first_name, 0,1);
 
-$last_name = 'holness';
+$last_name = 'allonce';
 
-$l_name = substr($last_name, 0, 6);
+$l_name = substr($last_name, 0, 7);
 
 // Retrieve the DOM from a given URL
 $html = file_get_html('http://faculty.mdc.edu/' . $f_name . $l_name);
