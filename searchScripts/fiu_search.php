@@ -7,7 +7,7 @@ function search($query_name, $file, $first_name, $last_name, $dom)
   foreach ($dom->find('tr.' . $query_name) as $e)
   {
     // $string = $e->innertext;
-    $string = $e->plaintext;
+  	$string = $e->plaintext;
     //json formatting
     $string = '"' . $query_name . '":' . '"' . substr($string, strlen($query_name), 
               strlen($string)) . '"'; 
@@ -20,8 +20,8 @@ function search($query_name, $file, $first_name, $last_name, $dom)
      
 //declaring first and last name
 //TODO: pass these values dynamically             
-$first_name = 'Jason';
-$last_name = 'Liu';
+$first_name = 'Lindsay';
+$last_name = 'Malloy';
 
 // Retrieve the DOM from a given URL for FIU
 $html = file_get_html('http://phonebook.fiu.edu/?q=' . $first_name . 
