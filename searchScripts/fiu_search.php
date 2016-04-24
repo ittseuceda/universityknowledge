@@ -27,7 +27,7 @@ $last_name = 'Liu';
 $html = file_get_html('http://phonebook.fiu.edu/?q=' . $first_name . 
                         '+' . $last_name . '&go=Search&axis=employee');
 //opening values file
-$file = fopen('professors/' . $first_name . '_' . $last_name . '.json', 'w');
+$file = fopen(__DIR__ . '/../professors/' . $first_name . '_' . $last_name . '.json', 'w');
 
 //writing first and last_name values
 fwrite($file, '"firstName":' . '"' . $first_name . '"' . "\n");
