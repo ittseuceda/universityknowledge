@@ -9,7 +9,8 @@ function search($query_name, $file, $first_name, $last_name, $dom)
     // $string = $e->innertext;
     $string = $e->plaintext;
     //json formatting
-    $string = '"' . $query_name . '":' . '"' . substr($string, strlen($query_name), strlen($string)) . '"'; 
+    $string = '"' . $query_name . '":' . '"' . substr($string, strlen($query_name), 
+              strlen($string)) . '"'; 
     
     /*for debugging*/
     // echo $string;
@@ -18,15 +19,15 @@ function search($query_name, $file, $first_name, $last_name, $dom)
 }
      
 //declaring first and last name      
-//TODO: pass these values dinamically             
+//TODO: pass these values dynamically             
 $first_name = 'Vincent';
 $last_name = 'Sanchez';
 
 // Retrieve the DOM from a given URL for FIU
 $html = file_get_html('http://phonebook.fiu.edu/?q=' . $first_name . 
                         '+' . $last_name . '&go=Search&axis=employee');
-//opening values.json
-$file = fopen(strtolower($first_name) . '_' . strtolower($last_name) . '.json', 'w');
+//opening values file
+$file = fopen($first_name . '_' . $last_name . '.json', 'w');
 
 //writing first and last_name values
 fwrite($file, '"firstName":' . '"' . $first_name . '"' . "\n");
@@ -38,5 +39,6 @@ search('business', $file, $first_name, $last_name, $html);
 search('department', $file, $first_name, $last_name, $html);
 search('title', $file, $first_name, $last_name, $html);
 
+//closing values file
 fclose($file);
 ?>
