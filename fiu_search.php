@@ -1,80 +1,42 @@
 <?php
-// Include the library
+// // Include simple-html library to get the DOM
 include('simple_html_dom.php');
 
+function search($query_name, $file, $first_name, $last_name, $dom)
+{
+  foreach ($dom->find('tr.' . $query_name) as $e)
+  {
+    // $string = $e->innertext;
+    $string = $e->plaintext;
+    //json formatting
+    $string = '"' . $query_name . '":' . '"' . substr($string, strlen($query_name), strlen($string)) . '"'; 
+    
+    /*for debugging*/
+    // echo $string;
+    fwrite($file, $string . "\n");
+  }
+}
+     
+//declaring first and last name      
+//TODO: pass these values dinamically             
+$first_name = 'Vincent';
+$last_name = 'Sanchez';
 
-$first_name = 'Lindsay';
-$last_name = 'Malloy';
-
-// Retrieve the DOM from a given URL
+// Retrieve the DOM from a given URL for FIU
 $html = file_get_html('http://phonebook.fiu.edu/?q=' . $first_name . 
-                      '+' . $last_name . '&go=Search&axis=employee');
-
-// Retrieve all images and print their SRCs
-// foreach($html->find('img') as $e)
-//     echo $e->src . '<br>';
-
-// // Find the DIV tag with an id of "myId"
-// foreach($html->find('div#myId') as $e)
-//     echo $e->innertext . '<br>';
-
+                        '+' . $last_name . '&go=Search&axis=employee');
 //opening values.json
-$file = fopen('fiu_results.json', 'w');
+$file = fopen(strtolower($first_name) . '_' . strtolower($last_name) . '.json', 'w');
 
-/*Dumping values to file*/
-// foreach ($html->find('legend') as $e)
-// {
-//   $string = $e->plaintext;
-//   echo $string;
-//   fwrite($file, $string . "\n");
-// }
-
+//writing first and last_name values
 fwrite($file, '"firstName":' . '"' . $first_name . '"' . "\n");
 fwrite($file, '"lastName":' . '"' . $last_name . '"' . "\n");
 
-
-foreach ($html->find('tr.email') as $e)
-{
-  $string = $e->plaintext;
-  //json formatting
-  $string = '"email":' . '"' . substr($string, 5, strlen($string)) . '"'; 
-  fwrite($file, $string . "\n");
-}
-
-foreach ($html->find('tr.business') as $e)
-{
-  // $string = $e->innertext;
-  $string = $e->plaintext;
-  //json formatting
-  $string = '"business":' . '"' . substr($string, 8, strlen($string)) . '"'; 
-  fwrite($file, $string . "\n");
-}
-
-foreach ($html->find('tr.department') as $e)
-{
-  // $string = $e->innertext;
-  $string = $e->plaintext;
-  //json formatting
-  $string = '"department":' . '"' . substr($string, 10, strlen($string)) . '"'; 
-
-  fwrite($file, $string . "\n");
-}
-
-foreach ($html->find('tr.title') as $e)
-{
-  // $string = $e->innertext;
-  $string = $e->plaintext;
-  //json formatting
-  $string = '"title":' . '"' . substr($string, 5, strlen($string)) . '"'; 
-  echo $string;
-  fwrite($file, $string . "\n");
-}
+//searching for other values
+search('email', $file, $first_name, $last_name, $html);
+search('business', $file, $first_name, $last_name, $html);
+search('department', $file, $first_name, $last_name, $html);
+search('title', $file, $first_name, $last_name, $html);
 
 fclose($file);
-// // Find all TD tags with "align=center"
-// foreach($html->find('td[align=center]') as $e)
-//     echo $e->innertext . '<br>';
-    
-// // Extract all text from a given cell
-// echo $html->find('td[align="center"]', 1)->plaintext.'<br><hr>';
 ?>
