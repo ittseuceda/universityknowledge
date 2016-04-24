@@ -18,16 +18,16 @@ function search($query_name, $file, $first_name, $last_name, $dom)
   }
 }
      
-//declaring first and last name      
+//declaring first and last name
 //TODO: pass these values dynamically             
-$first_name = 'Vincent';
-$last_name = 'Sanchez';
+$first_name = 'Jason';
+$last_name = 'Liu';
 
 // Retrieve the DOM from a given URL for FIU
 $html = file_get_html('http://phonebook.fiu.edu/?q=' . $first_name . 
                         '+' . $last_name . '&go=Search&axis=employee');
 //opening values file
-$file = fopen($first_name . '_' . $last_name . '.json', 'w');
+$file = fopen('professors/' . $first_name . '_' . $last_name . '.json', 'w');
 
 //writing first and last_name values
 fwrite($file, '"firstName":' . '"' . $first_name . '"' . "\n");
