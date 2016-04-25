@@ -8,8 +8,15 @@ $f_name = substr($first_name, 0,1);
 
 $last_name = 'holness';
 
-$l_name = substr($last_name, 0, 6);
+//TODO: find naming pattern for MDC link query
+// if(strlen($last_name) <= 7)
+// {
+//     $l_name = substr($last_name, 0, 6);
 
+// }
+// else {
+//     # code...
+// }
 // Retrieve the DOM from a given URL
 $html = file_get_html('http://faculty.mdc.edu/' . $f_name . $l_name);
 
@@ -25,7 +32,7 @@ $html = file_get_html('http://faculty.mdc.edu/' . $f_name . $l_name);
 $file = fopen('mdc_results.html', 'w');
 
 /*Dumping values to file*/
-foreach($html->find('td[colspan=2] && font[face="Verdana, Arial, Helvetica, sans-serif]') as $e)
+foreach($html->find('td[colspan] && font[face="Verdana, Arial, Helvetica, sans-serif"]') as $e)
 // foreach ($html->find('table#AutoNumber19') as $e)
 {
 //   $string = '';
