@@ -1,7 +1,20 @@
-UNIVERSITY KNOWLEDGE
--------------------
-An easier way to pick your professors
+FOR TF's Only:
 
-TODO: add MDC search and maybe two more colleges by today,
-        also make and connect to database.
-TODO: implement basic webpage, forms.
+-Everything is already going to be pre-installed with the vagrant box
+-All you need to do is run the follow the next steps:
+
+	1) Install VMWare if you do not have it
+	2) Install vagrant with your
+		https://www.vagrantup.com/downloads.html
+	3) open terminal/bash shell
+	3) cd into root /universityknowledge directory
+	4) run "vagrant up" once in directory
+	5) wallah! go to 192.168.33.10 and it's up!
+
+ 
+- Just in case, I dumped the SQL file in the root directory, called localhost.sql
+	-mysql database username and password are both "root"
+
+-phpmyadmin is installed, so you can go to 192.168.33.10/phpmyadmin 
+
+
